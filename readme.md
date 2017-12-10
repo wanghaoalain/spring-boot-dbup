@@ -1,3 +1,4 @@
+0.
 1. config website/resoueces/application.yml
     set spring.datasource.url/username/password
     set spring.redis.host/port
